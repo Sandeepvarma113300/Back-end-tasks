@@ -2,7 +2,7 @@ const getUserDetails = (id) => {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             console.log({ roll: "23A91A0577" });
-            resolve("User details received");  // important!
+            resolve("User details received");  
         }, 2000);
     });
 };

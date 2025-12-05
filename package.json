@@ -1,0 +1,19 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asynawait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeepvarma113300/Back-end-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeepvarma113300/Back-end-tasks/issues"
+  },
+  "homepage": "https://github.com/Sandeepvarma113300/Back-end-tasks#readme"
+}
